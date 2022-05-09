@@ -2,7 +2,7 @@
 
 A bare-bones website that shows 3 recipes from [AllRecipes.com](https://www.allrecipes.com/)
 
-Live site: [AllRecipes.com](https://cheuyin.github.io/odin-recipes/)
+Live site: [Odin Recipes](https://cheuyin.github.io/odin-recipes/)
 
 ## Skills Demonstrated
 - Building and linking multiple HTML pages
